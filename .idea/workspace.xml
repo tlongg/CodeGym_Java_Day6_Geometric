@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9982a710-a79d-414c-999e-3c4a6df07b7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geometric.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/CodeGym.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/Day3BaiTap1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/Day3BaiTap2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/Day3BaiTap3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3BaiTap3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/Day3ThucHanh1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/Day3ThucHanh2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThucHanh2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/Day3ThuchHanh3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/Day3ThuchHanh3/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eVEU80SMz72Yt34TFZ33oQiDee" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Automation Testing/JAVA/CodeGym/CodeGym Practice and Exercise/Day5/stop-watch-class"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9982a710-a79d-414c-999e-3c4a6df07b7e" name="Changes" comment="" />
+      <created>1711981360911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711981360911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ShapeTest.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
